@@ -1,0 +1,18 @@
+.btn{
+    margin-right: 15px;
+    border-radius: 10px;
+    padding: 7px; 
+    color: rgb(23, 2, 76);     
+    font-size: 18px;
+    background-color: #eef352;
+    cursor: pointer;
+}
+
+.field{
+    border: 5px solid rgb(105, 19, 203);
+    background-color: bisque;
+    border-radius: 5px;
+    padding: 0.5 rem 1 rem;
+    width: 100%;
+    margin-bottom: 1rem;
+}
